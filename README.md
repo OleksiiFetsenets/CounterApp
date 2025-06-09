@@ -1,1 +1,2 @@
 # CounterApp
+Welcome to counter
